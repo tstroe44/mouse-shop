@@ -1,0 +1,39 @@
+{
+  "public": {
+    "default": {
+      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/F537KevDgiinvcuKC5Mv4P/graphql",
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/F537KevDgiinvcuKC5Mv4P/graphql",
+      "headers": {
+        "all": {
+          "Store": "default"
+        },
+        "cs": {
+          "Magento-Store-Code": "main_website_store",
+          "Magento-Store-View-Code": "default",
+          "Magento-Website-Code": "base"
+        }
+      },
+      "commerce-assets-enabled": false,
+      "analytics": {
+        "base-currency-code": "USD",
+        "environment": "Testing",
+        "environment-id": "F537KevDgiinvcuKC5Mv4P",
+        "store-code": "main_website_store",
+        "store-id": "main_website_store",
+        "store-name": "Default Store View",
+        "store-url": "https://coresaas-subgraph-external:8000/F537KevDgiinvcuKC5Mv4P/",
+        "store-view-code": "default",
+        "store-view-id": "default",
+        "store-view-name": "Default Store View",
+        "website-code": "base",
+        "website-id": "base",
+        "website-name": "Main Website"
+      },
+      "plugins": {
+        "picker": {
+          "rootCategory": "2"
+        }
+      }
+    }
+  }
+}
